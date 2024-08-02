@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Rider and other JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
